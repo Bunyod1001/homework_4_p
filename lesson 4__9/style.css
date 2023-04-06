@@ -1,0 +1,9 @@
+.list_user :hover {
+    cursor: pointer;
+    color: #ebecf1;
+    background-color: #1c44e4;
+}
+
+body{
+    background-color: violet;
+}
